@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - ⚡ I love Programming, Data Science, and Gaming
-- 🔭 I’m currently working on Data Science and Marketing @Katonic.ai
+- 🔭 I’m currently working on Data Science and Marketing @[Katonic.ai](https://katonic.ai/)
 - 🌱 I’m currently learning OpenCV, Python, Streamlit, C#, Unity 3D.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
