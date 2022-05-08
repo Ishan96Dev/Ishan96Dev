@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Subscribe me in my YouTube Channel - [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 - 🤔 I’m looking for help with ... Data Science Career.
 
-[![Ishan Chakraborty's github stats](https://github-readme-stats.vercel.app/api?username=IshanChakrabortyYT&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/IshanChakrabortyYT/IshanChakrabortyYT)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshKumar97&layout=compact&langs_count=20)](https://github.com/ShaileshKumar97/github-readme-stats)
--->
