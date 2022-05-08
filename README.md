@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
   - :office: [LinkedIn](https://www.linkedin.com/in/ishan-chakraborty-0085571a1)
   - :YouTube: [YouTube](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
-- ⚡ Fun fact: Subscribe me in my YouTube Channel - [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
+- ⚡ Fun fact: Subscribe to my YouTube Channel - [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 - 🤔 I’m looking for help with ... Data Science Career.
 
 [![Ishan Chakraborty's github stats](https://github-readme-stats.vercel.app/api?username=IshanChakrabortyYT&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/IshanChakrabortyYT/IshanChakrabortyYT)
