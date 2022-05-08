@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
   - :office: [LinkedIn](https://www.linkedin.com/in/ishan-chakraborty-0085571a1)
-  - :YouTube: [YouTube](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
+  - :YouTube: [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 - ⚡ Fun fact: Subscribe to my YouTube Channel - [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 - 🤔 I’m looking for help with ... Data Science Career.
 
