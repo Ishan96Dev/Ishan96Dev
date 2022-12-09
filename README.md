@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - ⚡ I love Programming, Data Science, and Gaming
 - 🔭 I’m currently working on Data Scientist and Automation Test Engineer @[Katonic.ai](https://katonic.ai/)
-- 🌱 I’m currently learning OpenCV, Python, Streamlit, C#, Unity 3D.
+- 🌱 I’m currently learning OpenCV, Python, Streamlit, C#, Unity 3D, Robot Framework.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
   - :office: [LinkedIn](https://www.linkedin.com/in/ishan-chakraborty-0085571a1)
