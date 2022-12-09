@@ -7,12 +7,12 @@
 Here are some ideas to get you started:
 
 - ⚡ I love Programming, Data Science, and Gaming
-- 🔭 I’m currently working on Data Science and Marketing @[Katonic.ai](https://katonic.ai/)
+- 🔭 I’m currently working on Data Scientist and Automation Test Engineer @[Katonic.ai](https://katonic.ai/)
 - 🌱 I’m currently learning OpenCV, Python, Streamlit, C#, Unity 3D.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
   - :office: [LinkedIn](https://www.linkedin.com/in/ishan-chakraborty-0085571a1)
-  - :YouTube: [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
+  - :YouTube: [IshanGaming96](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 - ⚡ Fun fact: Subscribe to my YouTube Channel - [IshanGaming(ishanrock1234)](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 
 
