@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ishan.chakraborty)
   - :office: [LinkedIn](https://www.linkedin.com/in/ishan-chakraborty-0085571a1)
-  - :**YouTube**: [IshanGaming96](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
+  - **YouTube**: [IshanGaming96](https://www.youtube.com/channel/UCl8Kbt3lH-LJ04qGeRScyhQ)
 
 [![Ishan Chakraborty's github stats](https://github-readme-stats.vercel.app/api?username=Ishan96Dev&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ishan96Dev/github-readme-stats)
 
