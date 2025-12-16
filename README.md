@@ -387,7 +387,7 @@ Prime Academy ICSE & International, Mumbai | 2012
 - ✅ **70% reduction** in manual testing effort through automation
 - ✅ **45% improvement** in bug detection rate
 - ✅ **5+ major product releases** with successful testing infrastructure
-- ✅ **1K+ subscribers** on YouTube gaming channel
+- ✅ **12K+ subscribers** on YouTube gaming channel
 - ✅ **50K+ total views** across content creation
 
 ---
@@ -464,7 +464,7 @@ Prime Academy ICSE & International, Mumbai | 2012
 - 📊 **Build More Web and UI based** Applications and Websites
 - 📊 **Create advanced Streamlit** data applications
 - 💡 **Contribute to open-source** projects
-- 🎯 **Grow YouTube channel** to 5K+ subscribers
+- 🎯 **Grow YouTube channel** to 15K+ subscribers
 - 🔧 **Expand DevOps & Cloud** knowledge with Kubernetes
 
 ---
