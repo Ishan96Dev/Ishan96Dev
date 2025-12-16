@@ -79,13 +79,99 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan96Dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Ishan96Dev&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan96Dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+
+### 🚀 Latest Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 DocForge</h3>
+      <div align="center">
+        <a href="https://github.com/Ishan96Dev/DocForge" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="DocForge" />
+        </a>
+        <p><strong>🚀 Open-source intelligent web-to-PDF converter</strong></p>
+        <p>Transform entire websites into professional PDF documents with smart crawling, sitemap detection, and beautiful formatting.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/github/stars/Ishan96Dev/DocForge?style=flat-square" alt="Stars" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI Sentiment Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/Ishan96Dev/AI-Sentiment-Analyzer" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Sentiment Analyzer" />
+        </a>
+        <p><strong>🧠 Advanced AI sentiment analysis with GPT</strong></p>
+        <p>Real-time validation, reasoning transparency, 4-type classification, confidence metrics & professional Streamlit UI.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Document Knowledge Retrieval</h3>
+      <div align="center">
+        <a href="https://github.com/Ishan96Dev/document-knowledge-retrieval" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Document Knowledge Retrieval" />
+        </a>
+        <p><strong>📚 RAG-powered document analysis tool</strong></p>
+        <p>Advanced document analysis using OpenAI, CrewAI, and Milvus vector database for intelligent knowledge retrieval.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+          <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square" alt="RAG" />
+          <img src="https://img.shields.io/github/stars/Ishan96Dev/document-knowledge-retrieval?style=flat-square" alt="Stars" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Portfolio Website</h3>
+      <div align="center">
+        <a href="https://github.com/Ishan96Dev/ishan-portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" />
+        </a>
+        <p><strong>💼 Official portfolio showcase</strong></p>
+        <p>Professional portfolio showcasing projects in AI, Automation, and Web Development with modern design.</p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/github/stars/Ishan96Dev/ishan-portfolio?style=flat-square" alt="Stars" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Additional Projects
+
+- 📊 **[EA Stock Streamlit Dashboard](https://github.com/Ishan96Dev/ea-stock-streamlit-dashboard)** - Interactive dashboard for EA stock analysis with dynamic charts
+- 🎮 **[Digital Portfolio App](https://github.com/Ishan96Dev/digital-portfolio-app)** - Futuristic sci-fi themed portfolio with Streamlit
+- 🤖 **[Robot Framework GitHub Action](https://github.com/Ishan96Dev/robotframework-github-action)** - Automated testing workflow for Robot Framework
+- 🤖 **[ML Projects](https://github.com/Ishan96Dev/ML-Projects)** - Collection of Machine Learning applications built with Streamlit
+
 </div>
 
 ---
@@ -178,11 +264,13 @@
 
 - 🚀 **Master OpenCV** for computer vision applications
 - 🎮 **Develop Unity 3D games** and share tutorials
-- 🤖 **Enhance Robot Framework** automation skills
+- 🤖 **Enhance Robot Framework & Playwright** automation expertise
+- 🤖 **Build more AI/ML projects** with RAG and LLMs
 - 📊 **Build More Web and UI based** Applications and Websites
-- 📊 **Build more Streamlit** applications
+- 📊 **Create advanced Streamlit** data applications
 - 💡 **Contribute to open-source** projects
 - 🎯 **Grow YouTube channel** to 5K+ subscribers
+- 🔧 **Expand DevOps & Cloud** knowledge with Kubernetes
 
 ---
 
