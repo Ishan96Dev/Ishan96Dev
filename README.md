@@ -1,9 +1,13 @@
-# 👋 Hi there, I'm Ishan Chakraborty
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" /> Hi there, I'm Ishan Chakraborty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=60&lines=AI%2FML+Developer+%7C+Python+Backend+Engineer;Frontend+Developer+%7C+Next.js+%26+React;OpenAI+%26+MCP+Server+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:7F00FF&height=170&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%E2%80%A2%20Python%20Backend%20Engineer%20%E2%80%A2%20Frontend%20Developer&descAlignY=58&descSize=16" alt="Header Banner" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=Building+RAG+Systems+%26+Agentic+AI+Apps;Real-Time+FinTech+APIs+%26+Financial+Data+Systems;QA+%26+AI%2FML+Testing+Specialist" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1400&height=68&lines=AI%2FML+Developer+%7C+Python+Backend+Engineer;Frontend+Developer+%7C+Next.js+%26+React;OpenAI+%26+MCP+Server+Developer" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=1400&height=56&lines=Building+RAG+Systems+%26+Agentic+AI+Apps;Real-Time+FinTech+APIs+%26+Financial+Data+Systems;QA+%26+AI%2FML+Testing+Specialist" alt="Typing SVG" />
 </div>
 
 ---
